@@ -1,0 +1,2 @@
+# EDS-practical
+all practicals
